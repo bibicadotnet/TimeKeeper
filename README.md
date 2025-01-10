@@ -1,5 +1,4 @@
 # TimeKeeper - Automatic Time Synchronization for Windows
-Automatic Time Synchronization for Windows
 
 TimeKeeper is an automatic time synchronization tool for Windows that runs in the background without affecting users.
 
