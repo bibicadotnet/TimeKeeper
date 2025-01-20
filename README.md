@@ -10,3 +10,6 @@ Download: [Here](https://codeload.github.com/bibicadotnet/TimeKeeper/zip/refs/he
 Extract the files.
 
 Right-click on the `setup_timekeeper_task.bat` file and select `Run as administrator`.
+
+#### Update
+v1.1: Check and activate the Windows Time service if it is STOPPED or DISABLED.
