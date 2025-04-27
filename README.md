@@ -13,3 +13,4 @@ Right-click on the `setup_timekeeper_task.bat` file and select `Run as administr
 
 #### Update
 v1.1: Check and activate the Windows Time service if it is STOPPED or DISABLED.
+v1.2: fix some bug
